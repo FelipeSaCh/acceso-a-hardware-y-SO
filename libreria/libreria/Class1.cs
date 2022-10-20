@@ -76,7 +76,7 @@ namespace libreria
             {
                 return nic.GetPhysicalAddress().ToString();
             }
-            return "hola";
+            return "null";
         }
 
         public static string Patches()
