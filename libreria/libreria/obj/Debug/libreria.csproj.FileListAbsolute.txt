@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\componentes\libreria\libreria\bin\Debug\libreria.dll
+C:\Users\lenovo\Desktop\componentes\libreria\libreria\bin\Debug\libreria.pdb
+C:\Users\lenovo\Desktop\componentes\libreria\libreria\obj\Debug\libreria.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\componentes\libreria\libreria\obj\Debug\libreria.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\componentes\libreria\libreria\obj\Debug\libreria.dll
+C:\Users\lenovo\Desktop\componentes\libreria\libreria\obj\Debug\libreria.pdb
+C:\Users\jojan\Desktop\componentes4\componentes\libreria\libreria\bin\Debug\libreria.dll
+C:\Users\jojan\Desktop\componentes4\componentes\libreria\libreria\bin\Debug\libreria.pdb
+C:\Users\jojan\Desktop\componentes4\componentes\libreria\libreria\obj\Debug\libreria.csproj.AssemblyReference.cache
+C:\Users\jojan\Desktop\componentes4\componentes\libreria\libreria\obj\Debug\libreria.csproj.CoreCompileInputs.cache
+C:\Users\jojan\Desktop\componentes4\componentes\libreria\libreria\obj\Debug\libreria.dll
+C:\Users\jojan\Desktop\componentes4\componentes\libreria\libreria\obj\Debug\libreria.pdb
